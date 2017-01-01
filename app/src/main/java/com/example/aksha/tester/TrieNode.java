@@ -15,6 +15,10 @@ import java.util.Random;
         value = null;
     }
 
+    // This is just a sample for commit
+    //This has nothing to do with anything over here
+    //LOL
+
      void add(String word) {
         TrieNode crawl = this;
         int n = word.length();
